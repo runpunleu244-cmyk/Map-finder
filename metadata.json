@@ -1,0 +1,6 @@
+{
+  "name": "GeoForensics AI",
+  "description": "An advanced location discovery tool using AI to pinpoint exact locations from architectural, environmental, and astronomical clues in images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
